@@ -13,7 +13,7 @@ def hopper
 				:dennis_ritchie => {
 					:known_for => "Unix",
 					:languages => ["C"]
-				}exit
+				}
 		 }
 
 	programmer_hash[:grace_hopper]
