@@ -1,5 +1,8 @@
+require 'pry'
 def hopper
+binding.pry
 	programmer_hash.collect[:grace_hopper]
+binding.pry
 end
 
 def alan_kay_is_known_for
