@@ -88,7 +88,7 @@ def adding_matz
 		 # }
 end
 
-def changing_alan(alans_new_info)
+def changing_alan
 	programmer_hash =
  		{
         :grace_hopper => {
